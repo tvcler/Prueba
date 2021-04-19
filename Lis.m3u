@@ -158,3 +158,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1,TV Noticias 7.3
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIPE0002&mode=12
+
+#EXTINF:-1,TV C5N TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618886749/ei/_et9YKCsKZfm1sQPuayOWA/ip/190.195.147.109/id/kt43n3r1jJo.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgfHY0WVGNocSkSXxC2Qkl84vjJfNhE3gi_MLWUHRYohMCIDwXHNrDVg49k2vm9jzKkw1aHYuDQuKl-UGsy9nNSM43/file/index.m3u8
