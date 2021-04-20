@@ -173,3 +173,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618891154/ei/M
 
 #EXTINF:1-,CARACOL NOTICIAS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1618893021/ei/fQR-YI6CEYTC8wLz85-4BA/ip/190.195.147.109/id/dwzaDAVLiHg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/gcr/ar/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgOQgr44yUia0OSB9fm5obtfHt_iR_d1C6IBGrb_tEEsECIQCtTIZs8JKYhXl9kv31HJ3YMm-LtWWUzT8zCBF4h8h-yQ%3D%3D/file/index.m3u8
+
+#EXTINF:1-,La 2
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_2800_av-p.m3u8
+
