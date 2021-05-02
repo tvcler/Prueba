@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,Nina TV
-
+#EXTINF:-1 tvg-ID="NULL" tvg-name="===== Nina =====" tvg-logo="" group-title="",===== Nina =====
+http://livego.club:8080/Exolapmio/Exolapmio/1197
 #EXTINF:-1 ,El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
 #EXTINF:-1 tvg-ID="NULL" tvg-name="===== Spain =====" tvg-logo="" group-title="",===== Spain =====
