@@ -228,4 +228,18 @@ https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
 #EXTINF:-1,Los Monster
 https://raw.githubusercontent.com/relcliza00/Prueba/main/Losmonster.m3u
 
+#EXTINF:-1,Enfoque Digital TV | CL
+https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
+
+#EXTINF:-1 group-title="LOCALES 1", TODO NOTICIAS   
+https://www.youtube.com/watch?v=wHn1_QVoXGM
+
+
+#EXTINF:-1 group-title="LOCALES 1", C5N - 25.2
+https://www.youtube.com/watch?v=kt43n3r1jJo
+
+
+#EXTINF:-1 group-title="LOCALES 1", LN+ - 25.3
+https://www.youtube.com/watch?v=ns8-5XKA0Ww    
+
 
