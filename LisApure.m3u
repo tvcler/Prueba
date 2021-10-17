@@ -2,6 +2,9 @@
 #EXTINF:-1 group-title="Infantil", El Chavo TV
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8
 
+#EXTINF:-1 group-title="Paraguay", La Tele Media TV
+https://rds3.desdeparaguay.net/latele/latele_int_baja/chunklist_w776679018.m3u8
+
 #EXTINF:-1 group-title="Paraguay", Venus Media TV
 https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w1160467748.m3u8?k=7329e505f9a391215ed66f84041199fd95afefb3014c242789ddcfb6d2efed32&exp=1634476138
 
